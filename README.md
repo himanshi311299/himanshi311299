@@ -15,26 +15,29 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+[![Dart](https://img.icons8.com/color/50/000000/dart.png)](#)
+[![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](#)
+[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](#)
+[![Visual Studio Code](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)](#)
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](#)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](#)
+[![Javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)](#)
+[![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)](#)
+[![GIT](https://img.icons8.com/color/50/000000/git.png)](#)
+[![Github](https://img.icons8.com/color/50/000000/github--v1.png)](#)
+[![Command Line](https://img.icons8.com/color/50/000000/run-command.png)](#)
+ 
+<br />
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-## Connect with me:
+## 📱 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/himanshi-tiwari-240383194/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/himanshi3112_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCTIe_7RfQb2e0B22h7Eh-Iw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/himanshi-tiwari-240383194" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://instagram.com/himanshi3112_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+
+<br /> 
+<br /> 
