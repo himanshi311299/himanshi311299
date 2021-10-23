@@ -49,6 +49,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br/>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshi311299&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="himanshi311299" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshi311299&show_icons=true&locale=en" alt="himanshi311299" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshi311299&show_icons=true&theme=merko&title_color=f3ea29&text_color=0ecaf1&locale=en" alt="himanshi311299" /></p>
