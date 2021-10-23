@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Android Development**
 
+- 📫 How to reach me **himanshitiwari311299@gmail.com**
+
 - 👯 I’m looking to collaborate on **Android Apps**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://himanshitiwari.wixsite.com/folio)**
-
-- 📫 How to reach me **himanshitiwari311299@gmail.com**
+- 👨‍💻 Graphic Desigining Portfolio **[My Portfolio](https://himanshitiwari.wixsite.com/folio)**
 
 <!---
 himanshi311299/himanshi311299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,24 +17,26 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Languages:
 
-[![Dart](https://img.icons8.com/color/50/000000/dart.png)](Dart)
-[![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](Flutter)
+[![Dart](https://img.icons8.com/color/50/000000/dart.png)](#)
+[![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](#)
 [![Python](https://img.icons8.com/color/48/000000/python--v1.png)](#)
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](#)
-[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](CSS3)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](#)
 [![Javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)](#)
 [![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)](#)
 [![Github](https://img.icons8.com/color/50/000000/github--v1.png)](#)
-<img src="https://img.icons8.com/cute-clipart/64/000000/android.png"/>
+[![Android](https://img.icons8.com/fluency/48/000000/android.png)](#)
 
 ### 🚀 Tools:
+
 [![Visual Studio Code](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)](#)
 [![GIT](https://img.icons8.com/color/50/000000/git.png)](#)
 [![Command Line](https://img.icons8.com/color/50/000000/run-command.png)](#)
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+[![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png)](#)
+[![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png)](#)
+[![Firebase](https://img.icons8.com/color/48/000000/google-firebase-console.png)](#)
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](#)
+
 <br />
 
 ## 📱 Connect with me:
