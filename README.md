@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 [![Javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)](#)
 [![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)](#)
 [![Github](https://img.icons8.com/color/50/000000/github--v1.png)](#)
-
+<img src="https://img.icons8.com/cute-clipart/64/000000/android.png"/>
 
 ### 🚀 Tools:
 [![Visual Studio Code](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)](#)
