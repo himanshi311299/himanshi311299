@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/himanshi-tiwari-240383194" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1634999991~hmac=c441613329824d71bd07e4b01656f8e1" width="40px"/></a>
-<a href = "https://instagram.com/himanshi3112_"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40px"/></a>
+<a href = "https://www.linkedin.com/in/himanshi-tiwari-240383194" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px"/></a>
+<a href = "https://instagram.com/himanshi3112_"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40px"/></a>
 
 </p>
 <br/>
