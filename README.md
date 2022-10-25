@@ -11,7 +11,7 @@
 - 👨‍💻 Graphic Desigining Portfolio **[My Portfolio](https://himanshitiwari.wixsite.com/folio)**
 
 
-[![@naikg's Holopin board](https://holopin.me/naikg)](https://holopin.io/@naikg)
+[![@himanshi31121999's Holopin board](https://holopin.me/himanshi31121999)](https://holopin.io/@himanshi31121999)
 <!---
 himanshi311299/himanshi311299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
