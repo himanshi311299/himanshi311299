@@ -2,11 +2,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently **FrontEnd Developer**
 
 - 📫 How to reach me **himanshitiwari311299@gmail.com**
 
-- 👯 I’m looking to collaborate on **Android Apps**
+- 👯 I’m looking to collaborate on **React Web App**
 
 - 👨‍💻 Graphic Desigining Portfolio **[My Portfolio](https://himanshitiwari.wixsite.com/folio)**
 
